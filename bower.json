@@ -1,0 +1,28 @@
+{
+  "name": "ng-preview",
+  "authors": [
+    "Andrei Averkin <andrei@yotpo.com>"
+  ],
+  "description": "dynamic preview directive, supporting desktop and mobile views, on the page and full-screen",
+  "main": "directive.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "preview",
+    "mobile",
+    "desktop",
+    "full-screen"
+  ],
+  "license": "MIT",
+  "homepage": "www.yotpo.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7"
+  }
+}
